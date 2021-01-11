@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/mopugh/.cache/pypoetry/virtualenvs/microblog-YHADpyq9-py3.8/bin/python3.8"
+	}
+}
